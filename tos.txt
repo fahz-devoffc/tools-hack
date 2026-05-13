@@ -1,1 +1,26 @@
+═══════════════════════════════════════════════════════════
+                    FAHZ-TOOLS - TERMS OF SERVICE
+═══════════════════════════════════════════════════════════
 
+📜 KETENTUAN PENGGUNAAN:
+
+1. Tools ini dibuat untuk TUJUAN EDUKASI & PENELITIAN keamanan saja.
+
+2. Pengguna bertanggung jawab penuh atas penggunaan tools ini.
+
+3. DILARANG menggunakan tools ini untuk:
+   - Merusak sistem orang lain tanpa izin
+   - Mencuri data pribadi
+   - Aktivitas ilegal yang melanggar hukum
+
+4. Developer tidak bertanggung jawab atas penyalahgunaan tools ini.
+
+5. Dengan menggunakan tools ini, Anda menyetujui:
+   - Hanya menggunakan di lingkungan sendiri/lab testing
+   - Tidak akan menyalahgunakan untuk kejahatan siber
+
+6. Hacking tanpa izin adalah ILEGAL!
+
+═══════════════════════════════════════════════════════════
+© 2024 FAHZ-TOOLS | Untuk Dunia Peretasan Etis
+═══════════════════════════════════════════════════════════
