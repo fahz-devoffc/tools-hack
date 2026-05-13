@@ -1,4 +1,4 @@
-# 🔥 FAHZ-TOOLS - Blackhat Toolkit (Educational)
+# 🔥 FAHZ-TOOLS - REDHAT HACKER Toolkit (Educational)
 
 **Dibuat oleh FahzDev**  
 *Open-source untuk pembelajaran keamanan siber*
