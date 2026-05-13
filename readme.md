@@ -24,8 +24,8 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # Clone repository
-git clone https://github.com/fahzdev/fahz-tools
-cd fahz-tools
+git clone https://github.com/fahz-devoffc/tools-hack
+cd tools-hack
 
 # Install library Python yang dibutuhkan
 pip install requests cryptography
